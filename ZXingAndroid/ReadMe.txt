@@ -1,0 +1,5 @@
+1.ZxingAndroid:是基于Gradle的工程项目
+2.通过下载GitHub上的zxing的开源项目中(android的Ecplise ADT的工程转换过来)
+为了使用方便，转换的时间会很长
+3.在Android Studio中直接引入转换的开源库ZxingAndroid即可
+

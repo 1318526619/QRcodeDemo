@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Users\\Jimmy\\QRcodeDemo\\ZXingAndroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-land\\encode.xml",
+        "source": "E:\\Users\\Jimmy\\QRcodeDemo\\ZXingAndroid\\build\\intermediates\\bundles\\debug\\res\\layout-land\\encode.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\QRcodeDemo\\ZXingAndroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-land\\share.xml",
+        "source": "E:\\Android\\AndroidStudioProjects\\QRcodeDemo\\ZXingAndroid\\build\\intermediates\\bundles\\debug\\res\\layout-land\\share.xml"
+    },
+    {
+        "merged": "E:\\Users\\Jimmy\\QRcodeDemo\\ZXingAndroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-land\\share.xml",
+        "source": "E:\\Users\\Jimmy\\QRcodeDemo\\ZXingAndroid\\build\\intermediates\\bundles\\debug\\res\\layout-land\\share.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\QRcodeDemo\\ZXingAndroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-land\\encode.xml",
+        "source": "E:\\Android\\AndroidStudioProjects\\QRcodeDemo\\ZXingAndroid\\build\\intermediates\\bundles\\debug\\res\\layout-land\\encode.xml"
+    }
+]

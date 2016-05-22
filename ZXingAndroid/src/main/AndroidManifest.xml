@@ -1,0 +1,34 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.google.zxing.client.android"
+        >
+
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+
+    <uses-permission android:name="android.permission.CAMERA"/>
+
+    <application android:allowBackup="true"
+            >
+
+        <!-- 二维码扫描的界面 :将原来的landscape修改成portrait -->
+        <activity
+                android:name=".CaptureActivity"
+                android:screenOrientation="portrait"
+                >
+            <intent-filter>
+                <action android:name="com.google.zxing.client.android.SCAN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+
+        <!-- 生成二维码的界面-->
+        <activity android:name=".encode.EncodeActivity">
+            <intent-filter>
+                <action android:name="com.google.zxing.client.android.ENCODE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+
+    </application>
+
+</manifest>

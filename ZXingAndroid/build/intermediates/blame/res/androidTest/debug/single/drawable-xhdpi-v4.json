@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\QRcodeDemo\\ZXingAndroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\launcher_icon.png",
+        "source": "E:\\Android\\AndroidStudioProjects\\QRcodeDemo\\ZXingAndroid\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\launcher_icon.png"
+    },
+    {
+        "merged": "E:\\Users\\Jimmy\\QRcodeDemo\\ZXingAndroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\launcher_icon.png",
+        "source": "E:\\Users\\Jimmy\\QRcodeDemo\\ZXingAndroid\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\launcher_icon.png"
+    }
+]
